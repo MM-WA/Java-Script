@@ -12,6 +12,7 @@ var accountStatus
 //var accountEmail //no redecleration
 //accountEmail = "def@gmail.com" //only reassigning
 
+//var
 var accountPassword //can be redecleare
  accountPassword = "321ewq" /*can be reassigned (this will also change previous accountPassword
                             accutally it will override previous accountPassword)*/
