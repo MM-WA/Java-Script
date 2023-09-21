@@ -46,8 +46,8 @@ let name2 = name1
 
 name2 = "Asif"
 
-console.log(name1)
-console.log(name2)
+// console.log(name1)
+// console.log(name2)
 
 
 let user1 = {
