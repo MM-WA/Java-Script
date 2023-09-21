@@ -32,6 +32,35 @@ const myFunction = function() {
 }
 
 
-console.log(typeof heros) //object
-console.log(typeof myObj) //object 
-console.log(typeof myFunction) //function, function object
+// console.log(typeof heros) //object
+// console.log(typeof myObj) //object 
+// console.log(typeof myFunction) //function, function object
+
+
+// ************************** Memory *****************************
+
+// Stack (Primitive),  Heap (Refrence)
+
+let name1 = "Waleed"
+let name2 = name1
+
+name2 = "Asif"
+
+console.log(name1)
+console.log(name2)
+
+
+let user1 = {
+    name: "Ali",
+    email: "ali@gmail.com"
+}
+
+let user2 = user1
+user2.name = "Waleed"
+
+console.log(user1.name)
+console.log(user2.name)
+
+
+
+
