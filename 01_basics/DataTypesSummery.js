@@ -12,8 +12,26 @@ let country //undefined
 let num1 = Symbol('123')
 let num2 = Symbol('123')
 
-console.log(num1 === num2)
+// console.log(num1 === num2)
+
+
 
 // Refrence (non primitive)
 
 // Array, Objects, Functions
+
+const heros = ["Ali", "Ahmad", "rizwan"]
+
+let myObj = {
+    name: "waleed",
+    age: 18
+}
+
+const myFunction = function() {
+    console.log("Hello World")
+}
+
+
+console.log(typeof heros) //object
+console.log(typeof myObj) //object 
+console.log(typeof myFunction) //function, function object
