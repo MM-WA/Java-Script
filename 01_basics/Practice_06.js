@@ -70,6 +70,7 @@ const name2 = new String("Mian-Muhammad-Waleed-Asif")
 // console.log(name2.slice(-4, -1))
 // console.log(name2.indexOf('W'))
 // console.log(name2.charAt(8))
+console.log(name2.split('-'))
 
 const name3 = "    Waleed    "
 // console.log(name3)

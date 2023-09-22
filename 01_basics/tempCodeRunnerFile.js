@@ -1,1 +1,3 @@
-W
+newDate.toLocaleString("default", {
+    weekday: "long"
+})
