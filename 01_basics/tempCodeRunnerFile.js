@@ -1,3 +1,1 @@
-newDate.toLocaleString("default", {
-    weekday: "long"
-})
+09-22-2023
