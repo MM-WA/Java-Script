@@ -64,14 +64,14 @@ let users = [
  
 
 // json
-{
-    "name": "Waleed",
-    "email": "waleed@gmail.com"
-}
+// {
+//     "name": "Waleed",
+//     "email": "waleed@gmail.com"
+// }
 
 // or
 
-[
-    {},
-    {},
-]
+// [
+//     {},
+//     {},
+// ]
