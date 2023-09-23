@@ -5,10 +5,10 @@ const balance = new Number(100)
 // console.log(balance)
 
 // console.log(balance.toString().length)
-// console.log(balance.toFixed(2))
+// console.log(balance.toFixed(2)) //how many digits after decimal point
 
 const anotherNumber = 123.8966
-// console.log(anotherNumber.toPrecision(4))
+// console.log(anotherNumber.toPrecision(4)) //how many digits in whole ans
 
 const number = 1000000
 // console.log(number.toLocaleString('en-IN'))
