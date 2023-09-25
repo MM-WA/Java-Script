@@ -1,1 +1,1 @@
-courseInstructor:
+{name: "Waleed"}

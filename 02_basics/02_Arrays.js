@@ -17,7 +17,7 @@ let arr2 = ["Salman", "Wasti", "Mohid", "Mudasser"]
 
 console.log(Array.isArray("Waleed"))
 console.log(Array.from("Waleed"))
-console.log(Array.from({name: "Waleed"})) // intersting
+console.log(Array.from(Object.values({name: "Waleed"}))) // intersting
 
 let score1 = 100
 let score2 = 200
