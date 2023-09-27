@@ -7,7 +7,7 @@ const obj = {
 }
 
 for(const key in obj) {
-    // console.log(`${key}  is shortcut for ${obj[key]}`)
+    // console.log(`${key}  is shortcut for ${obj[key]}`) //[] syntex is must
 }
 
 const programing = ["cpp", "java", "swift", "python"]

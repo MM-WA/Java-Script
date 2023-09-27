@@ -1,7 +1,5 @@
-or (let i = 0; i < 10; i++) {
-//     const element = i
-//     if (element == 5) {
-//         console.log("5 is best number")
-//     }
-//     console.log(element)
-// }
+nst newNums = numArr // in chaining 1st method pass values to 2nd and so on
+//                       .map((num) => num * 10) 
+//                       .map((num) => num + 1)
+//                       .filter((num) => num >= 40)
+// co
