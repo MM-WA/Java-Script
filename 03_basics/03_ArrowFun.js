@@ -17,7 +17,7 @@ const user = {
 
 // function chai() {
 //     let userName = "waleed"
-//     console.log(this.name)
+//     console.log(this)
 // }
 
 // chai()
@@ -34,7 +34,7 @@ const chai = () => {
     console.log(this)
 }
 
-// chai()
+chai()
 
 // 
 
@@ -43,6 +43,3 @@ const chai = () => {
 // const addTwo = (num1, num2) => ({userName: "waleed"})//object must be returned in paranthesis in implicit return
 
 console.log(addTwo(4, 5))
-
-
-
