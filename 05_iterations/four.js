@@ -25,3 +25,8 @@ for(const key in programing) {
 // for(const key in map) { // map can't be iterated through for in loop
 //     console.log(key)
 // }
+
+const string = "abcdefghij"
+// for(let char in string) {
+//     console.log(char)
+// }

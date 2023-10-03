@@ -18,3 +18,16 @@ console.log(3
 
 console.log(typeof null) //object
 console.log(typeof undefined) //undefined
+
+
+// console.log(w)
+// var w = 5
+// console.log(w)
+
+// console.log(w)
+// let w = 5
+// console.log(w)
+
+// console.log(w)
+// const w = 5
+// console.log(w)
