@@ -101,7 +101,7 @@
 // getAllUsers()
 
 
-// 04
+// 04 (when fetch promise get error code as response [Error: 404 etc] it is resolved promise)
 fetch("https://jsonplaceholder.typicode.com/users") //returns a promise
 .then(function(response) {
     return response.json()
