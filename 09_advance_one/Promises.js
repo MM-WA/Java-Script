@@ -58,6 +58,7 @@
 // }).finally(() => console.log("The promise is either resolve or rejected."))
 
 
+
 // const promiseFive = new Promise(function(resolve, reject) {
 //     setTimeout(function() {
 //         let error = true
@@ -102,15 +103,14 @@
 
 
 // 04 (when fetch promise get error code as response [Error: 404 etc] it is resolved promise)
-fetch("https://jsonplaceholder.typicode.com/users") //returns a promise
-.then(function(response) {
-    return response.json()
-})
-.then((result) => {
-    console.log(result)
-})
-.catch((error) => {
-    console.log(error)
-})
-
+// fetch("https://jsonplaceholder.typicode.com/users") //returns a promise
+// .then(function(response) {
+//     return response.json()
+// })
+// .then((result) => {
+//     console.log(result)
+// })
+// .catch((error) => {
+//     console.log(error)
+// })
 

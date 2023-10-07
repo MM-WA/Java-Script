@@ -32,7 +32,7 @@ function User(userName, loginCount, isLoggedIn) {
 }
 
 
-const userOne = new User("Muhammad", "5", true)
+const userOne =  new User("Muhammad", "5", true)
 const userTwo = new User("Ahmad", "5", false) // Override userOne without new in both instanceses
 const userThree = new User() 
 
