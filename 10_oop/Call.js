@@ -1,4 +1,4 @@
-// function setUserName(userName) {
+ // function setUserName(userName) {
 //     //complex DB calls
 //     this.userName = userName
 //     console.log("Called");
@@ -14,3 +14,4 @@
 // const chai = new createUser("waleed", "w@fb.com", "123")
 
 // console.log(chai);
+
