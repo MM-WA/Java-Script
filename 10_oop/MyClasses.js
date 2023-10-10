@@ -28,7 +28,7 @@
 
 
 
-// Behind The Scenes
+// Behinde The Scenes
 
 function User(userName, email, password) {
     this.userName = userName
