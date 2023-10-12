@@ -4,7 +4,7 @@ class User {
         this._password = password
     }
 
-    set email(value) { //max call stack size overflow will occur if props and method has same names
+    set email(value) { //max call stack size overflow will occur if props and method has same name
         this._email = value
     }
 
@@ -17,7 +17,7 @@ class User {
     }
 
     get password() {
-        return this._password.toUpperCase()
+    return this._password.toUpperCase()
     }
 } 
 
